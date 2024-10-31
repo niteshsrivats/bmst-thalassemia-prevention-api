@@ -1,0 +1,4 @@
+fastapi[standard]==0.115.4
+fastapi-versioning==0.10.0
+firebase-admin==6.5.0
+neo4j==5.25.0
